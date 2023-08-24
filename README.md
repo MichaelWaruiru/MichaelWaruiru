@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Michael Waruiru
+- 👀 I’m interested in backend development using Go and Python(Flask and a little Django)
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on backend projects using the latter
+- 📫 You can message me here ☺
