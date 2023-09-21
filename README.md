@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Waruiru.
 - 👀 I’m interested in backend development using Go and Python(Flask and a little Django)
 - 🌱 I also know JavaScript, HTML and CSS.
-- 💞️ I’m looking to collaborate on backend projects using the latter.
+- 💞️ I’m looking forward to collaborate or work individually on backend projects using the latter.
 - 📫 You can message me here 😊
 - ✨ MySQL is my playground 😎
