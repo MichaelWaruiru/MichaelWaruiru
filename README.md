@@ -18,6 +18,9 @@
 <br>
 <br>
 <div style="margin-top: 20px; margin-bottom: 20px;">
-    <font size="6"><b>Wanna reach me out?</b></font> 📫 You can message me via email: [michaelwaruiru@gmail.com](mailto:michaelwaruiru@gmail.com)
+        <font size="6"><b>Wanna reach me out?</b>📫 You can message me via email:</font>
+        <br>
+             michaelwaruiru@gmail.com   
+        
 </div>
 
