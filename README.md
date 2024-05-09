@@ -2,8 +2,9 @@
 - 👋 Hi, I’m Michael Waruiru, and I am a backend developer
 - 👀 I’m interested in backend development using Go and Python(Flask and Django), and Machine Learning
 
-<font size="6">SKILLS</font>
 <div style="margin-top: 20px; margin-bottom: 20px;">
+        <font size="6">SKILLS</font>
+
         ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
         ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=machine-learning&logoColor=white)
         ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
