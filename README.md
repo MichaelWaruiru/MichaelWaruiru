@@ -1,7 +1,7 @@
 <font size="6"><b>INTRODUCTION</b></font>
 - 👋 Hi, I’m Michael Waruiru, and I am a self-taught backend developer
 - 👀 I’m interested in backend development using Go and Python(Flask and Django), and Machine Learning
-<br>
+
 <br>
 <div style="margin-top: 20px; margin-bottom: 20px;">
         <font size="6"><b>SKILLS</b></font>
