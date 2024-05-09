@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Michael Waruiru, and I am a backend developer
 - 👀 I’m interested in backend development using Go and Python(Flask and Django), and Machine Learning
 
-<div style="margin-top: 20px; margin-bottom: 20px;">
+<div style="margin-top: 80px; margin-bottom: 80px;">
         <font size="6">SKILLS</font>
 </div>
 
