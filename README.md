@@ -5,6 +5,7 @@
 <div style="margin-top: 20px; margin-bottom: 20px;">
         <font size="6"><b>SKILLS</b></font>
 </div>
+<br>
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=machine-learning&logoColor=white)
