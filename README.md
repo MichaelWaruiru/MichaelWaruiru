@@ -14,6 +14,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+<div style="margin-top: 20px; margin-bottom: 20px;">
+        <font size="6"><b>Wanna reach me out?</b>📫 You can message me via email:</font>
+        <div>
+             michaelwaruiru@gmail.com   
+        </div>
+</div>
 
-<font size="6"><b>Wanna reach me out?</b>📫 You can message me via email:</font>
-        michaelwaruiru@gmail.com
