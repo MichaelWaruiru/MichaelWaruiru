@@ -17,7 +17,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <br>
 <br>
-<div style="margin-top: 20px; margin-bottom: 20px;">
-    <font size="6"><b>Wanna reach me out?</b></font> 📫 You can message me via email: [michaelwaruiru@gmail.com](mailto:michaelwaruiru@gmail.com)
-</div>
+
+<font size="6"><b>Wanna reach me out?</b>📫 You can message me via email:</font>
+     michaelwaruiru@gmail.com   
+
+
 
