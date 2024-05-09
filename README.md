@@ -1,9 +1,9 @@
-<font size="6">INTRODUCTION</font>
+<font size="6"><b>INTRODUCTION</b></font>
 - 👋 Hi, I’m Michael Waruiru, and I am a backend developer
 - 👀 I’m interested in backend development using Go and Python(Flask and Django), and Machine Learning
 
-<div style="margin-top: 80px; margin-bottom: 80px;">
-        <font size="6">SKILLS</font>
+<div style="margin-top: 20px; margin-bottom: 20px;">
+        <font size="6"><b>SKILLS</b></font>
 </div>
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
@@ -15,5 +15,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
-<font size="6">Wanna reach me out?📫 You can message me via email:</font>
+<font size="6"><b>Wanna reach me out?</b>📫 You can message me via email:</font>
         michaelwaruiru@gmail.com
