@@ -17,7 +17,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Kubernetes](https://image.shields.io/badge/-kubernetes-5586B2?style=flat-square&logo=kubernetes&Color=white).
+![Kubernetes](https://img.shields.io/badge/-kubernetes-5586B2?style=flat-square&logo=kubernetes&Color=white).
 <br>
 <br>
 
