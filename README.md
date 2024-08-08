@@ -1,6 +1,6 @@
 <font size="6"><b>INTRODUCTION</b></font>
-- 👋 Hi, I’m Michael Waruiru, and I am a self-taught backend developer
-- 👀 I’m interested in backend development using Go and Python(Flask and Django), and Machine Learning
+- 👋 Hi, I’m Michael Waruiru, and I am a self-taught backend developer.
+- 👀 I’m interested in backend development using Go and Python(Flask and Django), and Machine Learning(End goal)
 
 <br>
 <div style="margin-top: 20px; margin-bottom: 20px;">
@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-<!--![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) -->
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 <br>
 <br>
 
