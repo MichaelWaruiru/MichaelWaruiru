@@ -23,7 +23,7 @@
 <br>
 <br>
 
-<font size="6"><b>Wanna reach me out?</b>📫 You can message me via email:</font>
+<font size="6"><b>Wanna reach me out? Collaborate in building innovative projects? </b>📫 You can message me via email:</font>
      michaelwaruiru@gmail.com   
 
 
