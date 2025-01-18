@@ -1,6 +1,6 @@
 <font size="6"><b>INTRODUCTION</b></font>
 - 👋 Hi, I’m Michael Waruiru, and I am a self-taught backend developer.
-- 👀 I’m interested in backend development using Go, Python(Flask & Django) and MySQL.
+- 👀 I’m interested in backend development using Go, Python(Flask & Django)
 - 👨‍💻 I am a Machine Learning enthusiast.
 - 🖖🏾 I'm exploring React js for fun (No, I'm not a JavaScript fan).
 
