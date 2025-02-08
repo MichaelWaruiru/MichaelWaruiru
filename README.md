@@ -3,6 +3,7 @@
 - 👀 I’m interested in backend development using Go, Python(Flask & Django)
 - 🏌🏾‍♂️ MySQL is my playground in database management.
 - 👨‍💻 I am a Machine Learning enthusiast.
+- 🌚 I learn frontend for the plot.
 - 🖖🏾 I'm exploring React js for fun (No, I'm not a JavaScript fan).
 
 <br>
