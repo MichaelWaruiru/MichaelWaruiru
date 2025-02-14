@@ -32,6 +32,13 @@
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) -->
 <br>
 <br>
+## 📈 GitHub Stats
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelWaruiru&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+
+- LinkedIn: [Michael Waruiru](https://www.linkedin.com/in/michaelwaruiru)
 
 <font size="6"><b>Wanna reach me out? Collaborate in building innovative projects? </b>📫 You can message me via email:</font>
      michaelwaruiru@gmail.com   
