@@ -8,7 +8,7 @@
 - 🖖🏾 I'm exploring React js for fun (No, I'm not a JavaScript fan).
 
 <br>
-<div style="margin-top: 20px; margin-bottom: 20px;">
+<div style="margin-top: 20px; margin-bottom: 20px justify-content: center;">
         <font size="8"><b>SKILLS</b></font>
 </div>
 <br>
