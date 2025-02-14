@@ -10,6 +10,7 @@
 <!-- <div style="margin-top: 20px; margin-bottom: 20px;">
         <font size="8"><b>SKILLS</b></font>
 </div> -->
+
 ## 👨🏾‍💻 Skills
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
