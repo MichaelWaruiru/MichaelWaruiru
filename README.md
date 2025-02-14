@@ -1,4 +1,4 @@
-<font size="6"><b>INTRODUCTION</b></font>
+<font size="8"><b>INTRODUCTION</b></font>
 - 👋 Hi, I’m Michael Waruiru, and I'm a backend developer.
 - 👀 I’m interested in backend development using Go and Python(Flask & Django)
 - 🏌🏾‍♂️ MySQL is my playground in database management.
@@ -8,7 +8,7 @@
 
 <br>
 <div style="margin-top: 20px; margin-bottom: 20px;">
-        <font size="6"><b>SKILLS</b></font>
+        <font size="8"><b>SKILLS</b></font>
 </div>
 <br>
 
