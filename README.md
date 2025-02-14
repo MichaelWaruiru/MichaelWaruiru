@@ -32,6 +32,7 @@
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) -->
 <br>
 <br>
+
 ## 📈 GitHub Stats
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelWaruiru&show_icons=true&theme=radical)
