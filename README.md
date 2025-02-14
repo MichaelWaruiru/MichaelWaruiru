@@ -1,4 +1,5 @@
-<font size="20"><b>INTRODUCTION</b></font>
+<!-- <font size="20"><b>INTRODUCTION</b></font> -->
+## Introduction 
 - 👋 Hi, I’m Michael Waruiru, and I'm a backend developer.
 - 👀 I’m interested in backend development using Go and Python(Flask & Django)
 - 🏌🏾‍♂️ MySQL is my playground in database management.
