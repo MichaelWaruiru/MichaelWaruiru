@@ -6,13 +6,11 @@
 - 👨‍💻 I am a Machine Learning enthusiast.
 - 🌚 I learn frontend for the plot.
 - 🖖🏾 I'm exploring React js for fun (No, I'm not a JavaScript fan).
-
 <br>
-<div style="margin-top: 20px; margin-bottom: 20px align-items: center;">
+<!-- <div style="margin-top: 20px; margin-bottom: 20px;">
         <font size="8"><b>SKILLS</b></font>
-</div>
-<br>
-
+</div> -->
+## 👨🏾‍💻 Skills
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
 <br>
