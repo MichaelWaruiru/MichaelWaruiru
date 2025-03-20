@@ -5,7 +5,7 @@
 - 🏌🏾‍♂️ MySQL is my playground in database management.
 - 👨‍💻 I am a Machine Learning enthusiast.
 - 🌚 I learn frontend for the plot.
-- 🖖🏾 I'm exploring React js for fun (No, I'm not a JavaScript fan).
+<!--- 🖖🏾 I'm exploring React js for fun (No, I'm not a JavaScript fan). -->
 <br>
 <!-- <div style="margin-top: 20px; margin-bottom: 20px;">
         <font size="8"><b>SKILLS</b></font>
