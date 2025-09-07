@@ -4,29 +4,28 @@
 - 🏌🏾‍♂️ MySQL is my playground in database management.
 <br>
 
-## 👨🏾‍💻 Skills
+# 👨🏾‍💻 Skills
 
-### Languages
+## Languages
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
 
-### Databases
+## Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools
+## Developer Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-0A66C2?style=flat-square&logo=graph&logoColor=white)
 
-### Machine Learning / AI Frameworks
+## Libraries / Frameworks
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-0A66C2?style=flat-square&logo=graph&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FFD700?style=flat-square&logo=huggingface&logoColor=black)
-
-### Natural Language Processing
 ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/-NLTK-154360?style=flat-square&logo=python&logoColor=white)
 
-### Deep Learning Architectures
+## Concepts / Architectures
 ![CNN](https://img.shields.io/badge/-CNN-FF5733?style=flat-square&logo=ai&logoColor=white)
 ![RNN](https://img.shields.io/badge/-RNN-6C3483?style=flat-square&logo=ai&logoColor=white)
 
