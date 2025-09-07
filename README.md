@@ -26,7 +26,6 @@
 
 ## Concepts / Architectures
 ![CNN](https://img.shields.io/badge/-CNN-FF5733?style=flat-square&logo=ai&logoColor=white)
-![RNN](https://img.shields.io/badge/-RNN-6C3483?style=flat-square&logo=ai&logoColor=white)
 
 <br>
 
