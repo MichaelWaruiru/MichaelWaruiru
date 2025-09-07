@@ -7,8 +7,9 @@
 # 👨🏾‍💻 Skills
 
 ## Languages
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
