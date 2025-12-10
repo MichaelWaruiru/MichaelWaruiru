@@ -26,7 +26,7 @@
 
 <br>
 
-https://img.shields.io/badge/:badgeContent
+![GitHub](https://img.shields.io/badge/:badgeContent)
 
 
 ## 📈 GitHub Stats
