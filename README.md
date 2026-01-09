@@ -1,15 +1,8 @@
-<!-- ## Introduction 
+## Introduction 
 - 👋 Hi, I’m Michael Waruiru, and I'm a <strong>backend developer</strong>, recently expanded my knowledge to <strong>Machine and Deep Learning.</strong>
 - 👀 I’m interested in backend development using Go and Python(Flask & Django)
-- 🏌🏾‍♂️ MySQL is my playground in database management. -->
+- 🏌🏾‍♂️ MySQL is my playground in database management.
 <br>
-<a href="https://github.com/MichaelWaruiru">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MichaelWaruiru/MichaelWaruiru/main/dark_mode.svg">
-    <img alt="Michael Waruiru GitHub Profile README" src="https://raw.githubusercontent.com/MichaelWaruiru/MichaelWaruiru/main/light_mode.svg">
-  </picture>
-</a>
-
 
 # 👨🏾‍💻 Skills
 
