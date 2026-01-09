@@ -1,7 +1,5 @@
 ## Introduction 
-- 👋 Hi, I’m Michael Waruiru, and I'm a <strong>backend developer</strong>, recently expanded my knowledge to <strong>Machine and Deep Learning.</strong>
-- 👀 I’m interested in backend development using Go and Python(Flask & Django)
-- 🏌🏾‍♂️ MySQL is my playground in database management.
+- 👋 Hi, I’m Michael Waruiru, a <strong> Backend Developer</strong> working with Go and Python, and currently integrating <strong>Machine & Deep Learning</strong> into real-world applications. I design clean APIs, reliable systems, and performance-focused <strong>MySQL</strong> databases.
 <br>
 
 # 👨🏾‍💻 Skills
